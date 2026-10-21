@@ -1,0 +1,10 @@
+{
+  "name": "Quaderno di Vasca",
+  "short_name": "Vasche",
+  "lang": "it",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#eef3f1",
+  "theme_color": "#0b6d86",
+  "icons": [{ "src": "/icon.svg", "sizes": "any", "type": "image/svg+xml" }]
+}
